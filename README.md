@@ -23,8 +23,7 @@ This repository contains a Python implementation of the Chain of Symbol approach
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/chain-of-symbol-story-generator.git
-   ```
+   git clone https://github.com/shiv2398/Symbol/tree/main   ```
 2. Install required packages:
    ```
    pip install openai pillow ipython
